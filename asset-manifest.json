@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UniAcco-test/static/css/main.b7ba97fa.css",
+    "main.js": "/UniAcco-test/static/js/main.6102140d.js",
+    "static/js/453.238107c9.chunk.js": "/UniAcco-test/static/js/453.238107c9.chunk.js",
+    "index.html": "/UniAcco-test/index.html",
+    "main.b7ba97fa.css.map": "/UniAcco-test/static/css/main.b7ba97fa.css.map",
+    "main.6102140d.js.map": "/UniAcco-test/static/js/main.6102140d.js.map",
+    "453.238107c9.chunk.js.map": "/UniAcco-test/static/js/453.238107c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7ba97fa.css",
+    "static/js/main.6102140d.js"
+  ]
+}
